@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_field_grey">#F0F0F0</color>
+    <color name="arithmetic_colour">#F48836</color>
+    <color name="textfield_color">#A3A3A3</color>
+</resources>
